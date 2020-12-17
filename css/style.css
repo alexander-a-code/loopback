@@ -39,6 +39,14 @@ body {
   border-radius: 5px;
 }
 
+#home-section .fas,
+#create-section .fas {
+  color: #008ed6;
+  background: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
 #explore-section .fas,
 #share-section .fas {
   background: #333;
